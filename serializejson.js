@@ -1,6 +1,6 @@
 /**
  * Serialize all form data into a JSON string
- * (c) 2021 Chris Ferdinandi, MIT License, https://gomakethings.com
+ * (c) 2021 Emmanuel ADEKPLOVI, MIT License, https://homescriptone.com
  * @param {HTMLFormElement} form The form to serialize
  * @returns {String} The serialized form data
  */
